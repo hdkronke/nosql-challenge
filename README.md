@@ -1,10 +1,8 @@
-# nosql-challenge
-Module 12 Challenge
+# NoSQL Challenge
+## Module 12
 
-Here are my files for the Module 12 Challenge!
+For this project, I used Mongo to build and analyze a database of businesses in the UK.
 
-The 'setup_starter' covers the first part of the assignment and 'analysis_starter' covers the rest. They both pull from the JSON file in the 'Resources' folder to work their magic.
+![image](https://github.com/hdkronke/nosql-challenge/assets/117773492/fb26c4ca-3893-4ad8-b9ac-c765cca279cf)
 
-The 'Checkpoint' file just has the original starter code in case we need it someday. 
 
-Cheers!
